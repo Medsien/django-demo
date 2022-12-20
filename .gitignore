@@ -1,0 +1,15 @@
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+.python-version
+
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+.env
+
+# Jetbrains
+.idea/
